@@ -16,4 +16,4 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
