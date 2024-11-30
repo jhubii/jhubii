@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 ![Laravel](https://img.shields.io/badge/Laravel-EA5028?style=flat&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## 📈 GitHub Stats
 
