@@ -22,6 +22,15 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 - 🚀 Laravel and Vue.js web development (freelance).
 - 🎰 Lottery/online casino website using React, Express.js, Angular, and Laravel.
 
+**Experience:**
+- 💼 Freelance (Current)
+- 🖥️ Pageone247 - Part-time (Current)
+- 🌐 Mini Clean Business Solutions (Infosoft) - Full Stack Web Developer
+- 📊 Mediaone Software Solutions - Intern
+
+**Also working with:**
+- 💡 Arduino and IoT projects.
+
 ## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&theme=gruvbox" alt="abhisheknaiidu" />
