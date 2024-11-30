@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-I am a full-stack developer with a focus on creating practical, efficient, and scalable digital solutions. From planning to execution, I approach each project with attention to detail, ensuring clean and maintainable code. My work spans a variety of technologies, and I’m passionate about solving real-world problems through thoughtful design and innovative development. I also share my experiences and knowledge with others, helping to foster growth and learning within the tech community.
+I am a full-stack developer with a focus on creating practical, efficient, and scalable digital solutions.
 
 ## 🔧 Technologies & Tools I Use
 
