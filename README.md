@@ -15,5 +15,5 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jzier7&langs_count=8&layout=compact&theme=radical)
