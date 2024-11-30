@@ -12,3 +12,8 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 ![Laravel](https://img.shields.io/badge/Laravel-EA5028?style=flat&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&layout=compact&theme=radical)
