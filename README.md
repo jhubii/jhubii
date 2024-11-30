@@ -18,6 +18,8 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+#
+
 **Currently working on:**
 - 🚀 Laravel and Vue.js web development (freelance).
 - 🎰 Lottery/online casino website using React, Express.js, Angular, and Laravel.
@@ -33,6 +35,8 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 
 **You can reach me at:**
 - 📧 jhuvizieryamaguchi@gmail.com
+
+#
 
 ## 📈 GitHub Stats
 
