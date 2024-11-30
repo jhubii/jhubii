@@ -1,6 +1,8 @@
 # Hi there, I'm Jhuvizier Yamaguchi 👋  
 
-Welcome to my GitHub profile! I'm passionate about developing innovative solutions and building engaging projects. Here's a little about what I do:
+**`Full-Stack Developer`**
+
+I am a full-stack developer with a focus on creating practical, efficient, and scalable digital solutions. From planning to execution, I approach each project with attention to detail, ensuring clean and maintainable code. My work spans a variety of technologies, and I’m passionate about solving real-world problems through thoughtful design and innovative development. I also share my experiences and knowledge with others, helping to foster growth and learning within the tech community.
 
 ## 🔧 Technologies & Tools I Use
 
@@ -16,4 +18,4 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&theme=gruvbox" alt="abhisheknaiidu" />
