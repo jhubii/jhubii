@@ -40,4 +40,4 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jzier7&show_icons=true&theme=gruvbox" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jhubii&show_icons=true&theme=gruvbox" alt="abhisheknaiidu" />
