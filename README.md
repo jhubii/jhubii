@@ -20,13 +20,9 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 
 #
 
-**Currently working on:**
-- 🚀 Laravel and Vue.js web development (freelance).
-- 🎰 Lottery/online casino website using React, Express.js, Angular, and Laravel.
-
 **Experience:**
+- 👨‍🏫 University of Mindanao - College Instructor (Current)
 - 💼 Freelance (Current)
-- 🖥️ Pageone247 - Part-time (Current)
 - 🌐 Mini Clean Business Solutions (Infosoft) - Full Stack Web Developer
 - 📊 Mediaone Software Solutions - Intern
 
