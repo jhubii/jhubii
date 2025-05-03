@@ -1,8 +1,8 @@
 # Hi there, I'm Jhuvizier Yamaguchi 👋  
 
-**`Full-Stack Developer`**
+**`Software Developer`**
 
-I am a full-stack developer with a focus on creating practical, efficient, and scalable digital solutions.
+I build efficient and user-focused applications with clean architecture and scalable logic, bridging backend functionality and intuitive user interfaces.
 
 ## 🔧 Technologies & Tools I Use
 
@@ -21,9 +21,9 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 #
 
 **Experience:**
-- 👨‍🏫 University of Mindanao - College Instructor (Current)
-- 💼 Freelance (Current)
-- 🌐 Mini Clean Business Solutions (Infosoft) - Full Stack Web Developer
+- 👨‍🏫 University of Mindanao - College Instructor
+- 💼 Freelance
+- 🌐 Infosoft - Web Developer
 - 📊 Mediaone Software Solutions - Intern
 
 **You can reach me at:**
