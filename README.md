@@ -26,9 +26,6 @@ I am a full-stack developer with a focus on creating practical, efficient, and s
 - 🌐 Mini Clean Business Solutions (Infosoft) - Full Stack Web Developer
 - 📊 Mediaone Software Solutions - Intern
 
-**Also working with:**
-- 💡 Arduino and IoT projects.
-
 **You can reach me at:**
 - 📧 jhuvizieryamaguchi@gmail.com
 
