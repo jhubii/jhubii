@@ -18,12 +18,6 @@ I build efficient and user-focused applications with clean architecture and scal
 
 #
 
-**Experience:**
-- 👨‍🏫 University of Mindanao - College Instructor
-- 💼 Freelance
-- 🌐 Infosoft - Web Developer
-- 📊 Mediaone Software Solutions - Intern
-
 **You can reach me at:**
 - 📧 jhuvizieryamaguchi@gmail.com
 
